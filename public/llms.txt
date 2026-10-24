@@ -1,0 +1,14 @@
+# Palehour
+
+> Palehour es un estudio independiente de videojuegos. Hace juegos lentos y atmosféricos: ciudades bajo la niebla, silencio, y algo enorme más allá de la luz. Sitio en español.
+
+## Juegos
+
+- Londinium (en desarrollo): city builder ambientado en Londres. Empieza en Whitechapel, en la década de 1850, y avanza desde la época victoriana: calles, oficios y cadenas de producción que crecen entre el hollín y la niebla.
+
+## Enlaces
+
+- [Sitio](https://palehour.github.io/)
+- [X: @palehour](https://x.com/palehour)
+- [GitHub: Palehour](https://github.com/Palehour)
+- Email: palehourstudios@gmail.com
